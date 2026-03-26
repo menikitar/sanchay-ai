@@ -1,0 +1,4 @@
+gradio==4.44.1
+ultralytics==8.2.0
+opencv-python-headless
+pandas
